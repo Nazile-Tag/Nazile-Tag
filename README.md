@@ -12,7 +12,7 @@
 <br >
 <br >
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align='left'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
