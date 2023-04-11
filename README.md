@@ -3,14 +3,14 @@
 ----------------------
 
 <h3 align="left"> I am a developer who loves to code and learn 
-  <br />
-  <br />
+  <br >
+  <br >
    🌍  I'm based in USA
-  <br />
-  <br />
+  <br >
+  <br >
 ☕ I love coffee while coding </h3>
-<br />
-<br />
+<br >
+<br >
 
 # 💻 Tech Stack:
 
@@ -30,25 +30,25 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'>
-<img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sketch.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width ='44px' align='center' class="d-block rounded-2 mr-3 flex-shrink-0" alt="c-sharp logo">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width ='44px' align='center' class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width ='44px' align='center' class="d-block rounded-2 mr-3 flex-shrink-0" alt="sql logo">
+<img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width ='44px' align='center' />
 
 
 
 <br>
 </p>
-
+<br >
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazile-tag/)
+
+<br >
+<br >
 
 <!--
 <p align="center">
