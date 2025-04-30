@@ -2,7 +2,7 @@
 
 ----------------------
 
-<h3 align="left"> I am a developer who loves to code and learn 
+<h3 align="left"> I am a Salesforce Developer who loves to code and learn 
   <br >
   <br >
    🌍  I'm based in USA
